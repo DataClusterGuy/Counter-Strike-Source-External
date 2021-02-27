@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright ï¿½ 1996-2005, Valve Corporation, All rights reserved. ============//
 //
 // Purpose: Generic MD5 hashing algo
 //
@@ -36,7 +36,7 @@ unsigned int MD5_PseudoRandom(unsigned int nSeed);
 //////////////////////
 
 
-//===== Copyright © 1996-2005, Valve Corporation, All rights reserved. ======//
+//===== Copyright ï¿½ 1996-2005, Vale Corporation, All rights reserved. ======//
 //
 // Purpose: 
 //
